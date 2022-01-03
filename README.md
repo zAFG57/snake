@@ -8,3 +8,7 @@
 >  le premier joueur controle sont serpend avec les flêche dirrectionelle alors que le deuxième joueur controle lui sont serpend grâce au touche "Z/Q/S/D".
 >  
 >  le but du jeu est de manger la pomme avant votre adversaire. Si votre tête rentre en contact avec la queue de votre advairsaire, vous perdez une vie et votre taile est remis a la taile initial. Le jeux se termine lorsque l'un des deux joueur n'a plus de vie. Manger une pomme vous fait gagniez une vie et vous augment legerment votre taile.
+>  
+>  Une fois la partie terminer, il y a un menu ou vous pouvez choisir de rejouer ou de quiter se jeux.
+>  
+>  la partie commence dès que l'un des deux joueur appuie sur l'une de ses touches.
