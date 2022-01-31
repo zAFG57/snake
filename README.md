@@ -1,14 +1,14 @@
 **Jeux de Snake en 1v1**
 ---
 
->  Ce project est un jeux de snake en 1 contre 1. Il est codé en html css et javascript(pour la logique); puis compiler en .exe a l'aide d'électronJS.
+>  Ce projet est un jeu de snake en 1 contre 1. Il est codé en html css et javascript(pour la logique); puis compilé en .exe à l'aide d'électronJS.
 >  
->  c'est un jeux qui se joue a deux joueur local (comme il se fessait avant sur une console de sallon).
+>  C'est un jeu qui se joue à deux joueurs en local (comme cela se faisait avant sur une console de salon).
 >  
->  le premier joueur controle sont serpend avec les flêche dirrectionelle alors que le deuxième joueur controle lui sont serpend grâce au touche "Z/Q/S/D".
+>  Le premier joueur contrôle son serpent avec les flêches directionelles alors que le deuxième joueur contrôle son serpent grâce aux touches "Z/Q/S/D".
 >  
->  le but du jeu est de manger la pomme avant votre adversaire. Si votre tête rentre en contact avec la queue de votre advairsaire, vous perdez une vie et votre taile est remis a la taile initial. Le jeux se termine lorsque l'un des deux joueur n'a plus de vie. Manger une pomme vous fait gagniez une vie et vous augment legerment votre taile.
+>  Le but du jeu est de manger la pomme avant votre adversaire. Si votre tête rentre en contact avec la queue de votre adversaire, vous perdez une vie et la taille de votre serpent est remis à la longeur initiale. Le jeu se termine lorsque l'un des deux joueurs n'a plus de vie. Manger une pomme vous fait gagnez une vie et augmente légèrement votre taille.
 >  
->  Une fois la partie terminer, il y a un menu ou vous pouvez choisir de rejouer ou de quiter se jeux.
+>  Une fois la partie terminée, un menu s'affiche, vous pouvez choisir de rejouer ou de quitter ce jeux.
 >  
->  la partie commence dès que l'un des deux joueur appuie sur l'une de ses touches.
+>  la partie commence dès que l'un des deux joueurs appuie sur l'une de ses touches.
