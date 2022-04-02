@@ -13,5 +13,5 @@
 >  
 >  La partie commence dès que l'un des deux joueurs appuie sur l'une de ses touches.
 >  
->  Vous pouvez essayer une version web de ce jeu [en clickant ici](http://ludovic.go.yj.fr/snake1v1)
+>  Vous pouvez essayer une version web de ce jeu [en clickant ici](https://ludovic.go.yj.fr/snake1v1)
 >  
