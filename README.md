@@ -16,3 +16,6 @@
 >  Vous pouvez essayer une version web de ce jeu [en clickant ici](https://ludovic.go.yj.fr/snake1v1)
 >  Cepandant, étant donné que le jeux est programer pour tourner dans une fenêtre de 800 / 600,
 >  vous devez dimentionné votre fenêtre au dimention du jeux pour profiter d'une experience optimale.
+
+
+>  Pour télécharger l'executable, vous pouvez [=clicker ici](https://ludovic.go.yj.fr/snake1v1/sanke.zip)
